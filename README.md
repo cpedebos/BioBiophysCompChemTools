@@ -10,3 +10,8 @@ https://github.com/xichengeva/DeepGlycanSite - "Highly accurate carbohydrate-bin
 https://www.biorxiv.org/content/10.1101/2024.06.03.597105v1 - "Protein Design with StructureGPT: a Deep Learning Model for Protein Structure-to-Sequence Translation"
 
 https://fraggrow.xundrug.cn/ - "FragGrow: A Web Server for Structure-Based Drug Design by Fragment Growing within Constraints"
+
+https://chemrxiv.org/engage/chemrxiv/article-details/661fec7f418a5379b00ae036 - "MolPipeline : A python package for processing molecules with RDKit in scikit-learn"
+
+https://github.com/porekhov/CG_probeMD - "Colabind: A Cloud-Based Approach for Prediction of Binding Sites Using Coarse-Grained Simulations with Molecular Probes"
+
