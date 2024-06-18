@@ -1,7 +1,7 @@
 # BioBiophysCompChemTools
 Computational Chemistry/Biochemistry/Biophysics list of tools 
 
-https://admet.if-pan.krakow.pl/ - ADMET analysis
+https://admet.if-pan.krakow.pl/ - "ADMET analysis"
 
 https://github.com/NiBoyang/AutoDock-SS - "AutoDock-SS is a novel algorithm designed for ligand-based virtual screening. It leverages advanced computational techniques to efficiently screen large compound libraries against a reference ligand, facilitating the discovery of potential drug candidates"
 
@@ -23,5 +23,6 @@ https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00703-1 - "VSFlow
 
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0358-3 - "Gypsum-DL: an open-source program for preparing small-molecule libraries for structure-based virtual screening"
 
+https://github.com/LBLQMM/MACAW - "MACAW, cheminformatic tool for Python that embeds molecules in a low-dimensional, continuous numerical space. It also enables the generation of new molecules on specification."
 
 
