@@ -15,3 +15,13 @@ https://chemrxiv.org/engage/chemrxiv/article-details/661fec7f418a5379b00ae036 - 
 
 https://github.com/porekhov/CG_probeMD - "Colabind: A Cloud-Based Approach for Prediction of Binding Sites Using Coarse-Grained Simulations with Molecular Probes"
 
+https://github.com/GHeinzelmann/BAT.py - "BAT2: An open-source tool for flexible, automated and low cost absolute binding free energy calculations"
+
+https://github.com/azamanos/HydraProt - "HydraProt: A New Deep Learning Tool for Fast and Accurate Prediction of Explicit Water Positions for Protein Structures"
+
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00703-1 - "VSFlow: an open-source ligand-based virtual screening tool"
+
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0358-3 - "Gypsum-DL: an open-source program for preparing small-molecule libraries for structure-based virtual screening"
+
+
+
