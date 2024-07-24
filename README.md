@@ -27,3 +27,4 @@ https://github.com/LBLQMM/MACAW - "MACAW, cheminformatic tool for Python that em
 
 https://github.com/mqcomplab/MDANCE - "Molecular Dynamics Analysis with N-ary Clustering Ensembles (MDANCE)"
 
+https://github.com/IFMlab/ChemFlow - ChemFlow is a series of drug discovery workflows
